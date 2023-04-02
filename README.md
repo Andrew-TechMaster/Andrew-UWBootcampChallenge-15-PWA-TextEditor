@@ -34,7 +34,7 @@ The project challenge involves building a single-page application that meets the
 ### Links
 
 - GitHub URL: [GitHub Repo](https://github.com/Andrew-TechMaster/Andrew-UWBootcampChallenge-15-PWA-TextEditor)
-- Live Site URL: [https://warm-headland-38704.herokuapp.com/](https://warm-headland-38704.herokuapp.com/)
+- Live Site URL: [https://banana-cupcake-09257.herokuapp.com/](https://banana-cupcake-09257.herokuapp.com/)
 
 ## My process
 
